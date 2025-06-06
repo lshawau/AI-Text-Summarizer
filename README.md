@@ -1,7 +1,7 @@
 # AI-Text-Summarizer
 
 A Python-based text analysis and summarization tool with a graphical interface. This tool provides comprehensive text analysis features for educational purposes including:
-
+![Image](https://github.com/user-attachments/assets/63524bb3-d3f4-453f-9189-d9d9e4607f30)
 - **Text summarization** with customizable prompts
   - **Examples of:**
     - **Advanced NLP Pipeline Analysis** with sequential processing stages
