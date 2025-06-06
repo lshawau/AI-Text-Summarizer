@@ -56,11 +56,6 @@ The setup script automatically downloads and configures:
 ## Application Versions
 
 ### Standard Version (`summary.py`)
-- Classic text analysis with individual tabs
-- All core NLP features
-- Independent analysis for each tab
-
-### Advanced Version (`summary_advanced.py`)
 - Sequential NLP pipeline processing
 - Shows how text transforms through each analysis stage
 - Educational pipeline flow from raw text to ML features
