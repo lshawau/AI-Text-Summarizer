@@ -1,0 +1,20 @@
+{
+  "built_in": {
+    "default": {
+      "name": "Default Summary",
+      "prompt": "Please provide a concise summary of the following text, focusing on the main points",
+      "category": "general"
+    },
+    "professional": {
+      "name": "Professional Email",
+      "prompt": "Analyze this text for professional tone and clarity, suggesting improvements",
+      "category": "business"
+    },
+    "academic": {
+      "name": "Academic Writing",
+      "prompt": "Convert this text into a formal academic style, maintaining key information",
+      "category": "education"
+    }
+  },
+  "custom": {}
+}
