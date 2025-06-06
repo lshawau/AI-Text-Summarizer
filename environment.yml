@@ -1,0 +1,13 @@
+name: summaryai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - requests
+  - spacy
+  - nltk
+  - tiktoken
+  - matplotlib
+  - spacy-model-en_core_web_sm
