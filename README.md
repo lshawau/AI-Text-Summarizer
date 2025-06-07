@@ -39,7 +39,6 @@ python setup_models.py
 4. Run the application:
 ```bash
 python summary.py          # Standard version
-python summary_advanced.py # Advanced pipeline version
 ```
 
 ## Why Use the setup_models.py Script?
